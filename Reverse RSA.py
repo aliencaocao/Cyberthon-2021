@@ -12,6 +12,6 @@ elif n == '':
     if p == '' and q == '':
         print('p and q are required if either p or q is unknown!')
     else:
-        n = p * q
-m = pow(c, d, n)
+        n = int(p) * int(q)
+m = pow(int(c), int(d), n)
 print(unhexlify(hex(m)[2:]).decode())
