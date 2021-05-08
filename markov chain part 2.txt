@@ -1,0 +1,60 @@
+[('The ShoppesVivocity', 84), ('The ShoppesThe Shoppes', 70), ('The ShoppesJewel Changi Airport', 44), ('The ShoppesIMM', 16)]
+total 214
+vivo: 39.252
+shops: 32.71
+0.1069+0.08215+0.0554=0.24445
+changi 20.561
+imm: 7.48
+
+
+[('The ShoppesVivocity', 26), ('The ShoppesThe Shoppes', 22), ('The ShoppesJewel Changi Airport', 12), ('The ShoppesIMM', 9)]
+total 69
+
+[('VivocityION Orchard', 40), ('VivocityJewel Changi Airport', 18), ('VivocityThe Shoppes', 18), ('VivocityVivocity', 8)]
+total 84
+ION 51.16
+0.2008
+Changi: 21.705
+0.0852
+shops: 20.93
+0.08215 (combined)
+vivo: 6.2
+0.02433
+
+[('Jewel Changi AirportVivocity', 15), ('Jewel Changi AirportThe Shoppes', 14), ('Jewel Changi AirportIMM', 11), ('Jewel Changi AirportJewel Changi Airport', 4)]
+total 44
+vivo: 32.17
+0.066
+Shope: 26.956
+0.0554 (comb)
+imm: 26.08
+0.05362
+changi:13.7826
+0.03039
+
+[('IMMIMM', 7), ('IMMION Orchard', 5), ('IMMJewel Changi Airport', 4)]
+total 16
+
+orchard: 50.393
+0.03769
+imm: 29.921
+0.02238
+changi: 19.685
+0.014724
+
+shops 0.24445
+ION 0.23849
+shops???
+changi 0.130314
+vivo 0.09033
+imm 0.076
+
+
+
+
+['Jewel Changi Airport' 'The Shoppes' 'Vivocity' 'IMM' 'ION Orchard']
+VIVO: 49 19,23
+changi: 38 7.8
+shopees: 54 17.66
+imm: 27 2.0196
+ION: 45 0

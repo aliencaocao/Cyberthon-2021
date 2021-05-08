@@ -1,0 +1,732 @@
+Date;Location;Weather
+2019-01-01;Jewel Changi Airport;Sunny
+2019-01-02;The Shoppes;Sunny
+2019-01-03;The Shoppes;Partly Cloudy
+2019-01-04;Vivocity;Cloudy
+2019-01-05;Jewel Changi Airport;Rainy
+2019-01-06;IMM;Cloudy
+2019-01-07;IMM;Cloudy
+2019-01-08;ION Orchard;Cloudy
+2019-01-09;ION Orchard;Cloudy
+2019-01-10;IMM;Sunny
+2019-01-11;ION Orchard;Sunny
+2019-01-12;The Shoppes;Partly Cloudy
+2019-01-13;Jewel Changi Airport;Overcast
+2019-01-14;The Shoppes;Rainy
+2019-01-15;The Shoppes;Rainy
+2019-01-16;IMM;Cloudy
+2019-01-17;ION Orchard;Cloudy
+2019-01-18;ION Orchard;Rainy
+2019-01-19;The Shoppes;Partly Cloudy
+2019-01-20;Vivocity;Cloudy
+2019-01-21;Jewel Changi Airport;Sunny
+2019-01-22;The Shoppes;Sunny
+2019-01-23;Vivocity;Overcast
+2019-01-24;The Shoppes;Rainy
+2019-01-25;The Shoppes;Cloudy
+2019-01-26;Vivocity;Rainy
+2019-01-27;Vivocity;Cloudy
+2019-01-28;ION Orchard;Sunny
+2019-01-29;IMM;Overcast
+2019-01-30;Jewel Changi Airport;Overcast
+2019-01-31;Vivocity;Overcast
+2019-02-01;The Shoppes;Sunny
+2019-02-02;Vivocity;Overcast
+2019-02-03;Jewel Changi Airport;Sunny
+2019-02-04;IMM;Overcast
+2019-02-05;ION Orchard;Sunny
+2019-02-06;IMM;Sunny
+2019-02-07;Jewel Changi Airport;Partly Cloudy
+2019-02-08;Jewel Changi Airport;Overcast
+2019-02-09;IMM;Rainy
+2019-02-10;IMM;Cloudy
+2019-02-11;Jewel Changi Airport;Cloudy
+2019-02-12;Vivocity;Cloudy
+2019-02-13;The Shoppes;Sunny
+2019-02-14;Vivocity;Overcast
+2019-02-15;ION Orchard;Rainy
+2019-02-16;IMM;Partly Cloudy
+2019-02-17;IMM;Cloudy
+2019-02-18;Jewel Changi Airport;Cloudy
+2019-02-19;Jewel Changi Airport;Cloudy
+2019-02-20;Vivocity;Cloudy
+2019-02-21;ION Orchard;Rainy
+2019-02-22;The Shoppes;Cloudy
+2019-02-23;Vivocity;Cloudy
+2019-02-24;ION Orchard;Cloudy
+2019-02-25;The Shoppes;Cloudy
+2019-02-26;Vivocity;Cloudy
+2019-02-27;Vivocity;Sunny
+2019-02-28;Jewel Changi Airport;Overcast
+2019-03-01;Vivocity;Rainy
+2019-03-02;ION Orchard;Cloudy
+2019-03-03;The Shoppes;Sunny
+2019-03-04;The Shoppes;Overcast
+2019-03-05;Jewel Changi Airport;Rainy
+2019-03-06;Jewel Changi Airport;Partly Cloudy
+2019-03-07;The Shoppes;Overcast
+2019-03-08;Vivocity;Overcast
+2019-03-09;ION Orchard;Overcast
+2019-03-10;ION Orchard;Rainy
+2019-03-11;The Shoppes;Cloudy
+2019-03-12;Vivocity;Rainy
+2019-03-13;ION Orchard;Cloudy
+2019-03-14;The Shoppes;Sunny
+2019-03-15;Jewel Changi Airport;Sunny
+2019-03-16;Vivocity;Cloudy
+2019-03-17;ION Orchard;Cloudy
+2019-03-18;IMM;Cloudy
+2019-03-19;Jewel Changi Airport;Rainy
+2019-03-20;Jewel Changi Airport;Cloudy
+2019-03-21;IMM;Cloudy
+2019-03-22;ION Orchard;Cloudy
+2019-03-23;ION Orchard;Cloudy
+2019-03-24;The Shoppes;Cloudy
+2019-03-25;Vivocity;Cloudy
+2019-03-26;ION Orchard;Rainy
+2019-03-27;ION Orchard;Cloudy
+2019-03-28;The Shoppes;Cloudy
+2019-03-29;IMM;Cloudy
+2019-03-30;Jewel Changi Airport;Cloudy
+2019-03-31;The Shoppes;Rainy
+2019-04-01;Jewel Changi Airport;Cloudy
+2019-04-02;Vivocity;Cloudy
+2019-04-03;Jewel Changi Airport;Sunny
+2019-04-04;Vivocity;Cloudy
+2019-04-05;The Shoppes;Cloudy
+2019-04-06;Vivocity;Cloudy
+2019-04-07;Jewel Changi Airport;Cloudy
+2019-04-08;IMM;Cloudy
+2019-04-09;ION Orchard;Cloudy
+2019-04-10;IMM;Cloudy
+2019-04-11;IMM;Cloudy
+2019-04-12;ION Orchard;Sunny
+2019-04-13;The Shoppes;Partly Cloudy
+2019-04-14;Jewel Changi Airport;Overcast
+2019-04-15;Vivocity;Sunny
+2019-04-16;Jewel Changi Airport;Overcast
+2019-04-17;Jewel Changi Airport;Overcast
+2019-04-18;Vivocity;Sunny
+2019-04-19;Jewel Changi Airport;Overcast
+2019-04-20;Vivocity;Overcast
+2019-04-21;Jewel Changi Airport;Rainy
+2019-04-22;IMM;Partly Cloudy
+2019-04-23;ION Orchard;Overcast
+2019-04-24;The Shoppes;Sunny
+2019-04-25;Jewel Changi Airport;Overcast
+2019-04-26;The Shoppes;Sunny
+2019-04-27;Jewel Changi Airport;Overcast
+2019-04-28;Vivocity;Rainy
+2019-04-29;ION Orchard;Partly Cloudy
+2019-04-30;IMM;Cloudy
+2019-05-01;Jewel Changi Airport;Cloudy
+2019-05-02;Vivocity;Rainy
+2019-05-03;Jewel Changi Airport;Partly Cloudy
+2019-05-04;Vivocity;Overcast
+2019-05-05;Jewel Changi Airport;Sunny
+2019-05-06;Vivocity;Sunny
+2019-05-07;ION Orchard;Sunny
+2019-05-08;ION Orchard;Cloudy
+2019-05-09;The Shoppes;Rainy
+2019-05-10;The Shoppes;Cloudy
+2019-05-11;The Shoppes;Cloudy
+2019-05-12;The Shoppes;Rainy
+2019-05-13;Jewel Changi Airport;Rainy
+2019-05-14;The Shoppes;Cloudy
+2019-05-15;Jewel Changi Airport;Cloudy
+2019-05-16;Vivocity;Sunny
+2019-05-17;Jewel Changi Airport;Overcast
+2019-05-18;The Shoppes;Rainy
+2019-05-19;The Shoppes;Cloudy
+2019-05-20;The Shoppes;Rainy
+2019-05-21;IMM;Cloudy
+2019-05-22;IMM;Sunny
+2019-05-23;ION Orchard;Overcast
+2019-05-24;The Shoppes;Overcast
+2019-05-25;Vivocity;Sunny
+2019-05-26;The Shoppes;Sunny
+2019-05-27;Vivocity;Partly Cloudy
+2019-05-28;ION Orchard;Overcast
+2019-05-29;The Shoppes;Sunny
+2019-05-30;Vivocity;Overcast
+2019-05-31;ION Orchard;Rainy
+2019-06-01;The Shoppes;Rainy
+2019-06-02;The Shoppes;Rainy
+2019-06-03;Vivocity;Cloudy
+2019-06-04;Jewel Changi Airport;Cloudy
+2019-06-05;Vivocity;Sunny
+2019-06-06;ION Orchard;Cloudy
+2019-06-07;The Shoppes;Cloudy
+2019-06-08;The Shoppes;Cloudy
+2019-06-09;Vivocity;Rainy
+2019-06-10;Vivocity;Partly Cloudy
+2019-06-11;Jewel Changi Airport;Cloudy
+2019-06-12;The Shoppes;Cloudy
+2019-06-13;The Shoppes;Rainy
+2019-06-14;Vivocity;Partly Cloudy
+2019-06-15;ION Orchard;Overcast
+2019-06-16;The Shoppes;Overcast
+2019-06-17;The Shoppes;Sunny
+2019-06-18;The Shoppes;Overcast
+2019-06-19;Vivocity;Sunny
+2019-06-20;ION Orchard;Overcast
+2019-06-21;The Shoppes;Rainy
+2019-06-22;The Shoppes;Partly Cloudy
+2019-06-23;Vivocity;Overcast
+2019-06-24;ION Orchard;Rainy
+2019-06-25;The Shoppes;Cloudy
+2019-06-26;Jewel Changi Airport;Cloudy
+2019-06-27;Vivocity;Cloudy
+2019-06-28;ION Orchard;Cloudy
+2019-06-29;IMM;Rainy
+2019-06-30;IMM;Rainy
+2019-07-01;ION Orchard;Partly Cloudy
+2019-07-02;The Shoppes;Sunny
+2019-07-03;The Shoppes;Partly Cloudy
+2019-07-04;Vivocity;Cloudy
+2019-07-05;ION Orchard;Cloudy
+2019-07-06;The Shoppes;Sunny
+2019-07-07;Vivocity;Partly Cloudy
+2019-07-08;ION Orchard;Cloudy
+2019-07-09;The Shoppes;Cloudy
+2019-07-10;The Shoppes;Cloudy
+2019-07-11;The Shoppes;Rainy
+2019-07-12;Jewel Changi Airport;Cloudy
+2019-07-13;The Shoppes;Rainy
+2019-07-14;The Shoppes;Partly Cloudy
+2019-07-15;Vivocity;Overcast
+2019-07-16;ION Orchard;Sunny
+2019-07-17;IMM;Sunny
+2019-07-18;ION Orchard;Overcast
+2019-07-19;The Shoppes;Sunny
+2019-07-20;The Shoppes;Overcast
+2019-07-21;Jewel Changi Airport;Sunny
+2019-07-22;IMM;Partly Cloudy
+2019-07-23;ION Orchard;Cloudy
+2019-07-24;The Shoppes;Sunny
+2019-07-25;The Shoppes;Overcast
+2019-07-26;Jewel Changi Airport;Sunny
+2019-07-27;Vivocity;Partly Cloudy
+2019-07-28;ION Orchard;Cloudy
+2019-07-29;The Shoppes;Rainy
+2019-07-30;The Shoppes;Cloudy
+2019-07-31;Jewel Changi Airport;Cloudy
+2019-08-01;The Shoppes;Cloudy
+2019-08-02;The Shoppes;Cloudy
+2019-08-03;Vivocity;Rainy
+2019-08-04;The Shoppes;Partly Cloudy
+2019-08-05;Jewel Changi Airport;Overcast
+2019-08-06;Vivocity;Overcast
+2019-08-07;The Shoppes;Rainy
+2019-08-08;Vivocity;Cloudy
+2019-08-09;ION Orchard;Cloudy
+2019-08-10;IMM;Sunny
+2019-08-11;ION Orchard;Sunny
+2019-08-12;The Shoppes;Partly Cloudy
+2019-08-13;The Shoppes;Sunny
+2019-08-14;IMM;Cloudy
+2019-08-15;IMM;Cloudy
+2019-08-16;Jewel Changi Airport;Cloudy
+2019-08-17;The Shoppes;Rainy
+2019-08-18;The Shoppes;Cloudy
+2019-08-19;The Shoppes;Rainy
+2019-08-20;Vivocity;Partly Cloudy
+2019-08-21;ION Orchard;Overcast
+2019-08-22;IMM;Rainy
+2019-08-23;ION Orchard;Partly Cloudy
+2019-08-24;The Shoppes;Sunny
+2019-08-25;The Shoppes;Overcast
+2019-08-26;The Shoppes;Sunny
+2019-08-27;Vivocity;Sunny
+2019-08-28;ION Orchard;Sunny
+2019-08-29;IMM;Partly Cloudy
+2019-08-30;ION Orchard;Cloudy
+2019-08-31;The Shoppes;Cloudy
+2019-09-01;Vivocity;Rainy
+2019-09-02;The Shoppes;Partly Cloudy
+2019-09-03;Vivocity;Cloudy
+2019-09-04;The Shoppes;Rainy
+2019-09-05;Vivocity;Cloudy
+2019-09-06;The Shoppes;Rainy
+2019-09-07;The Shoppes;Rainy
+2019-09-08;IMM;Cloudy
+2019-09-09;ION Orchard;Cloudy
+2019-09-10;The Shoppes;Cloudy
+2019-09-11;Jewel Changi Airport;Cloudy
+2019-09-12;The Shoppes;Cloudy
+2019-09-13;The Shoppes;Rainy
+2019-09-14;Jewel Changi Airport;Partly Cloudy
+2019-09-15;IMM;Cloudy
+2019-09-16;ION Orchard;Sunny
+2019-09-17;IMM;Overcast
+2019-09-18;IMM;Sunny
+2019-09-19;ION Orchard;Sunny
+2019-09-20;IMM;Partly Cloudy
+2019-09-21;Jewel Changi Airport;Sunny
+2019-09-22;IMM;Overcast
+2019-09-23;IMM;Rainy
+2019-09-24;Jewel Changi Airport;Cloudy
+2019-09-25;IMM;Sunny
+2019-09-26;IMM;Sunny
+2019-09-27;ION Orchard;Overcast
+2019-09-28;The Shoppes;Rainy
+2019-09-29;Vivocity;Cloudy
+2019-09-30;Jewel Changi Airport;Cloudy
+2019-10-01;Jewel Changi Airport;Rainy
+2019-10-02;Vivocity;Partly Cloudy
+2019-10-03;ION Orchard;Cloudy
+2019-10-04;The Shoppes;Rainy
+2019-10-05;Jewel Changi Airport;Cloudy
+2019-10-06;IMM;Cloudy
+2019-10-07;IMM;Sunny
+2019-10-08;ION Orchard;Overcast
+2019-10-09;The Shoppes;Sunny
+2019-10-10;The Shoppes;Sunny
+2019-10-11;The Shoppes;Partly Cloudy
+2019-10-12;The Shoppes;Sunny
+2019-10-13;The Shoppes;Overcast
+2019-10-14;The Shoppes;Overcast
+2019-10-15;Vivocity;Sunny
+2019-10-16;The Shoppes;Sunny
+2019-10-17;Vivocity;Partly Cloudy
+2019-10-18;ION Orchard;Cloudy
+2019-10-19;IMM;Cloudy
+2019-10-20;ION Orchard;Sunny
+2019-10-21;The Shoppes;Overcast
+2019-10-22;Vivocity;Rainy
+2019-10-23;Jewel Changi Airport;Partly Cloudy
+2019-10-24;Vivocity;Overcast
+2019-10-25;ION Orchard;Rainy
+2019-10-26;IMM;Partly Cloudy
+2019-10-27;ION Orchard;Sunny
+2019-10-28;The Shoppes;Overcast
+2019-10-29;The Shoppes;Sunny
+2019-10-30;The Shoppes;Overcast
+2019-10-31;Vivocity;Sunny
+2019-11-01;ION Orchard;Overcast
+2019-11-02;The Shoppes;Rainy
+2019-11-03;The Shoppes;Cloudy
+2019-11-04;The Shoppes;Cloudy
+2019-11-05;IMM;Cloudy
+2019-11-06;IMM;Cloudy
+2019-11-07;ION Orchard;Rainy
+2019-11-08;The Shoppes;Cloudy
+2019-11-09;Vivocity;Rainy
+2019-11-10;Vivocity;Cloudy
+2019-11-11;ION Orchard;Cloudy
+2019-11-12;The Shoppes;Cloudy
+2019-11-13;Jewel Changi Airport;Rainy
+2019-11-14;IMM;Cloudy
+2019-11-15;ION Orchard;Cloudy
+2019-11-16;The Shoppes;Cloudy
+2019-11-17;Vivocity;Cloudy
+2019-11-18;The Shoppes;Rainy
+2019-11-19;Vivocity;Rainy
+2019-11-20;ION Orchard;Cloudy
+2019-11-21;The Shoppes;Sunny
+2019-11-22;The Shoppes;Overcast
+2019-11-23;Vivocity;Sunny
+2019-11-24;The Shoppes;Sunny
+2019-11-25;Jewel Changi Airport;Overcast
+2019-11-26;The Shoppes;Sunny
+2019-11-27;Jewel Changi Airport;Cloudy
+2019-11-28;IMM;Cloudy
+2019-11-29;ION Orchard;Cloudy
+2019-11-30;IMM;Sunny
+2019-12-01;ION Orchard;Overcast
+2019-12-02;IMM;Rainy
+2019-12-03;ION Orchard;Rainy
+2019-12-04;The Shoppes;Partly Cloudy
+2019-12-05;Vivocity;Sunny
+2019-12-06;ION Orchard;Cloudy
+2019-12-07;IMM;Cloudy
+2019-12-08;Jewel Changi Airport;Cloudy
+2019-12-09;IMM;Rainy
+2019-12-10;IMM;Cloudy
+2019-12-11;ION Orchard;Cloudy
+2019-12-12;IMM;Cloudy
+2019-12-13;Jewel Changi Airport;Rainy
+2019-12-14;Jewel Changi Airport;Partly Cloudy
+2019-12-15;The Shoppes;Sunny
+2019-12-16;Jewel Changi Airport;Partly Cloudy
+2019-12-17;The Shoppes;Sunny
+2019-12-18;Jewel Changi Airport;Overcast
+2019-12-19;IMM;Rainy
+2019-12-20;ION Orchard;Partly Cloudy
+2019-12-21;IMM;Cloudy
+2019-12-22;IMM;Cloudy
+2019-12-23;Jewel Changi Airport;Cloudy
+2019-12-24;IMM;Cloudy
+2019-12-25;IMM;Sunny
+2019-12-26;IMM;Overcast
+2019-12-27;ION Orchard;Sunny
+2019-12-28;ION Orchard;Cloudy
+2019-12-29;IMM;Cloudy
+2019-12-30;IMM;Rainy
+2019-12-31;IMM;Rainy
+2020-01-01;ION Orchard;Partly Cloudy
+2020-01-02;IMM;Cloudy
+2020-01-03;ION Orchard;Cloudy
+2020-01-04;The Shoppes;Cloudy
+2020-01-05;Vivocity;Cloudy
+2020-01-06;ION Orchard;Cloudy
+2020-01-07;The Shoppes;Rainy
+2020-01-08;IMM;Cloudy
+2020-01-09;IMM;Rainy
+2020-01-10;ION Orchard;Rainy
+2020-01-11;The Shoppes;Partly Cloudy
+2020-01-12;Jewel Changi Airport;Overcast
+2020-01-13;Vivocity;Overcast
+2020-01-14;ION Orchard;Sunny
+2020-01-15;The Shoppes;Overcast
+2020-01-16;The Shoppes;Sunny
+2020-01-17;Vivocity;Sunny
+2020-01-18;ION Orchard;Overcast
+2020-01-19;ION Orchard;Rainy
+2020-01-20;ION Orchard;Cloudy
+2020-01-21;The Shoppes;Cloudy
+2020-01-22;Vivocity;Cloudy
+2020-01-23;The Shoppes;Rainy
+2020-01-24;Vivocity;Rainy
+2020-01-25;Jewel Changi Airport;Cloudy
+2020-01-26;Vivocity;Cloudy
+2020-01-27;The Shoppes;Cloudy
+2020-01-28;The Shoppes;Cloudy
+2020-01-29;Vivocity;Cloudy
+2020-01-30;ION Orchard;Cloudy
+2020-01-31;The Shoppes;Rainy
+2020-02-01;Vivocity;Cloudy
+2020-02-02;The Shoppes;Cloudy
+2020-02-03;Jewel Changi Airport;Rainy
+2020-02-04;IMM;Cloudy
+2020-02-05;IMM;Cloudy
+2020-02-06;Jewel Changi Airport;Cloudy
+2020-02-07;The Shoppes;Cloudy
+2020-02-08;Vivocity;Rainy
+2020-02-09;ION Orchard;Partly Cloudy
+2020-02-10;The Shoppes;Sunny
+2020-02-11;Vivocity;Sunny
+2020-02-12;Jewel Changi Airport;Overcast
+2020-02-13;IMM;Rainy
+2020-02-14;ION Orchard;Cloudy
+2020-02-15;IMM;Cloudy
+2020-02-16;Jewel Changi Airport;Cloudy
+2020-02-17;Jewel Changi Airport;Rainy
+2020-02-18;Vivocity;Partly Cloudy
+2020-02-19;ION Orchard;Cloudy
+2020-02-20;IMM;Rainy
+2020-02-21;IMM;Partly Cloudy
+2020-02-22;ION Orchard;Cloudy
+2020-02-23;The Shoppes;Cloudy
+2020-02-24;The Shoppes;Cloudy
+2020-02-25;The Shoppes;Cloudy
+2020-02-26;The Shoppes;Cloudy
+2020-02-27;The Shoppes;Cloudy
+2020-02-28;Vivocity;Sunny
+2020-02-29;ION Orchard;Overcast
+2020-03-01;The Shoppes;Sunny
+2020-03-02;Vivocity;Overcast
+2020-03-03;Jewel Changi Airport;Rainy
+2020-03-04;Vivocity;Rainy
+2020-03-05;The Shoppes;Partly Cloudy
+2020-03-06;Vivocity;Cloudy
+2020-03-07;ION Orchard;Rainy
+2020-03-08;IMM;Cloudy
+2020-03-09;ION Orchard;Sunny
+2020-03-10;IMM;Cloudy
+2020-03-11;Jewel Changi Airport;Sunny
+2020-03-12;The Shoppes;Partly Cloudy
+2020-03-13;Jewel Changi Airport;Cloudy
+2020-03-14;Jewel Changi Airport;Cloudy
+2020-03-15;Vivocity;Rainy
+2020-03-16;ION Orchard;Partly Cloudy
+2020-03-17;The Shoppes;Cloudy
+2020-03-18;The Shoppes;Sunny
+2020-03-19;Jewel Changi Airport;Cloudy
+2020-03-20;Jewel Changi Airport;Cloudy
+2020-03-21;The Shoppes;Cloudy
+2020-03-22;Vivocity;Cloudy
+2020-03-23;Jewel Changi Airport;Cloudy
+2020-03-24;Vivocity;Cloudy
+2020-03-25;The Shoppes;Cloudy
+2020-03-26;The Shoppes;Rainy
+2020-03-27;The Shoppes;Partly Cloudy
+2020-03-28;Jewel Changi Airport;Overcast
+2020-03-29;Vivocity;Sunny
+2020-03-30;ION Orchard;Overcast
+2020-03-31;The Shoppes;Sunny
+2020-04-01;Jewel Changi Airport;Partly Cloudy
+2020-04-02;Jewel Changi Airport;Cloudy
+2020-04-03;The Shoppes;Sunny
+2020-04-04;The Shoppes;Overcast
+2020-04-05;Jewel Changi Airport;Overcast
+2020-04-06;The Shoppes;Sunny
+2020-04-07;Vivocity;Overcast
+2020-04-08;Jewel Changi Airport;Sunny
+2020-04-09;The Shoppes;Cloudy
+2020-04-10;The Shoppes;Sunny
+2020-04-11;Vivocity;Sunny
+2020-04-12;ION Orchard;Overcast
+2020-04-13;IMM;Sunny
+2020-04-14;IMM;Overcast
+2020-04-15;Jewel Changi Airport;Rainy
+2020-04-16;The Shoppes;Partly Cloudy
+2020-04-17;Jewel Changi Airport;Sunny
+2020-04-18;The Shoppes;Overcast
+2020-04-19;Vivocity;Overcast
+2020-04-20;ION Orchard;Sunny
+2020-04-21;ION Orchard;Overcast
+2020-04-22;IMM;Sunny
+2020-04-23;ION Orchard;Overcast
+2020-04-24;IMM;Rainy
+2020-04-25;IMM;Partly Cloudy
+2020-04-26;ION Orchard;Cloudy
+2020-04-27;IMM;Cloudy
+2020-04-28;IMM;Cloudy
+2020-04-29;ION Orchard;Cloudy
+2020-04-30;The Shoppes;Cloudy
+2020-05-01;Vivocity;Cloudy
+2020-05-02;The Shoppes;Rainy
+2020-05-03;Vivocity;Cloudy
+2020-05-04;Jewel Changi Airport;Sunny
+2020-05-05;The Shoppes;Partly Cloudy
+2020-05-06;Vivocity;Sunny
+2020-05-07;ION Orchard;Cloudy
+2020-05-08;IMM;Cloudy
+2020-05-09;ION Orchard;Cloudy
+2020-05-10;IMM;Cloudy
+2020-05-11;IMM;Cloudy
+2020-05-12;IMM;Sunny
+2020-05-13;IMM;Overcast
+2020-05-14;ION Orchard;Overcast
+2020-05-15;ION Orchard;Sunny
+2020-05-16;The Shoppes;Overcast
+2020-05-17;Vivocity;Sunny
+2020-05-18;ION Orchard;Overcast
+2020-05-19;The Shoppes;Sunny
+2020-05-20;Jewel Changi Airport;Overcast
+2020-05-21;IMM;Overcast
+2020-05-22;ION Orchard;Sunny
+2020-05-23;IMM;Overcast
+2020-05-24;ION Orchard;Rainy
+2020-05-25;The Shoppes;Partly Cloudy
+2020-05-26;Jewel Changi Airport;Overcast
+2020-05-27;Vivocity;Rainy
+2020-05-28;ION Orchard;Cloudy
+2020-05-29;The Shoppes;Rainy
+2020-05-30;Vivocity;Rainy
+2020-05-31;ION Orchard;Cloudy
+2020-06-01;The Shoppes;Cloudy
+2020-06-02;Jewel Changi Airport;Cloudy
+2020-06-03;The Shoppes;Cloudy
+2020-06-04;Vivocity;Cloudy
+2020-06-05;The Shoppes;Cloudy
+2020-06-06;IMM;Cloudy
+2020-06-07;Jewel Changi Airport;Cloudy
+2020-06-08;Vivocity;Cloudy
+2020-06-09;ION Orchard;Cloudy
+2020-06-10;The Shoppes;Cloudy
+2020-06-11;The Shoppes;Rainy
+2020-06-12;Vivocity;Cloudy
+2020-06-13;The Shoppes;Cloudy
+2020-06-14;Jewel Changi Airport;Cloudy
+2020-06-15;Vivocity;Rainy
+2020-06-16;ION Orchard;Rainy
+2020-06-17;The Shoppes;Cloudy
+2020-06-18;Vivocity;Cloudy
+2020-06-19;The Shoppes;Cloudy
+2020-06-20;Vivocity;Cloudy
+2020-06-21;Vivocity;Cloudy
+2020-06-22;Jewel Changi Airport;Cloudy
+2020-06-23;IMM;Cloudy
+2020-06-24;ION Orchard;Cloudy
+2020-06-25;The Shoppes;Cloudy
+2020-06-26;Jewel Changi Airport;Cloudy
+2020-06-27;Vivocity;Cloudy
+2020-06-28;ION Orchard;Cloudy
+2020-06-29;The Shoppes;Cloudy
+2020-06-30;Jewel Changi Airport;Cloudy
+2020-07-01;IMM;Cloudy
+2020-07-02;ION Orchard;Cloudy
+2020-07-03;The Shoppes;Cloudy
+2020-07-04;Vivocity;Cloudy
+2020-07-05;The Shoppes;Cloudy
+2020-07-06;Vivocity;Cloudy
+2020-07-07;The Shoppes;Cloudy
+2020-07-08;The Shoppes;Cloudy
+2020-07-09;Vivocity;Rainy
+2020-07-10;ION Orchard;Cloudy
+2020-07-11;The Shoppes;Cloudy
+2020-07-12;Jewel Changi Airport;Cloudy
+2020-07-13;The Shoppes;Cloudy
+2020-07-14;The Shoppes;Sunny
+2020-07-15;The Shoppes;Partly Cloudy
+2020-07-16;The Shoppes;Overcast
+2020-07-17;The Shoppes;Overcast
+2020-07-18;Vivocity;Sunny
+2020-07-19;Vivocity;Overcast
+2020-07-20;ION Orchard;Rainy
+2020-07-21;The Shoppes;Cloudy
+2020-07-22;The Shoppes;Rainy
+2020-07-23;Jewel Changi Airport;Partly Cloudy
+2020-07-24;IMM;Sunny
+2020-07-25;ION Orchard;Overcast
+2020-07-26;The Shoppes;Rainy
+2020-07-27;Vivocity;Partly Cloudy
+2020-07-28;Jewel Changi Airport;Overcast
+2020-07-29;Jewel Changi Airport;Rainy
+2020-07-30;Vivocity;Partly Cloudy
+2020-07-31;ION Orchard;Sunny
+2020-08-01;IMM;Overcast
+2020-08-02;ION Orchard;Rainy
+2020-08-03;The Shoppes;Cloudy
+2020-08-04;The Shoppes;Sunny
+2020-08-05;The Shoppes;Partly Cloudy
+2020-08-06;Vivocity;Overcast
+2020-08-07;Jewel Changi Airport;Sunny
+2020-08-08;IMM;Overcast
+2020-08-09;Jewel Changi Airport;Rainy
+2020-08-10;Jewel Changi Airport;Cloudy
+2020-08-11;IMM;Cloudy
+2020-08-12;Jewel Changi Airport;Cloudy
+2020-08-13;Jewel Changi Airport;Cloudy
+2020-08-14;Jewel Changi Airport;Rainy
+2020-08-15;Vivocity;Partly Cloudy
+2020-08-16;ION Orchard;Sunny
+2020-08-17;The Shoppes;Overcast
+2020-08-18;Vivocity;Sunny
+2020-08-19;Jewel Changi Airport;Cloudy
+2020-08-20;IMM;Cloudy
+2020-08-21;IMM;Rainy
+2020-08-22;Jewel Changi Airport;Cloudy
+2020-08-23;IMM;Cloudy
+2020-08-24;ION Orchard;Cloudy
+2020-08-25;IMM;Cloudy
+2020-08-26;ION Orchard;Sunny
+2020-08-27;IMM;Partly Cloudy
+2020-08-28;IMM;Overcast
+2020-08-29;ION Orchard;Sunny
+2020-08-30;The Shoppes;Overcast
+2020-08-31;Vivocity;Rainy
+2020-09-01;ION Orchard;Partly Cloudy
+2020-09-02;The Shoppes;Sunny
+2020-09-03;Vivocity;Overcast
+2020-09-04;Jewel Changi Airport;Sunny
+2020-09-05;IMM;Partly Cloudy
+2020-09-06;ION Orchard;Overcast
+2020-09-07;The Shoppes;Rainy
+2020-09-08;The Shoppes;Partly Cloudy
+2020-09-09;IMM;Overcast
+2020-09-10;Jewel Changi Airport;Sunny
+2020-09-11;Jewel Changi Airport;Overcast
+2020-09-12;The Shoppes;Sunny
+2020-09-13;IMM;Sunny
+2020-09-14;ION Orchard;Cloudy
+2020-09-15;ION Orchard;Rainy
+2020-09-16;The Shoppes;Partly Cloudy
+2020-09-17;Vivocity;Sunny
+2020-09-18;ION Orchard;Cloudy
+2020-09-19;ION Orchard;Cloudy
+2020-09-20;The Shoppes;Rainy
+2020-09-21;The Shoppes;Cloudy
+2020-09-22;IMM;Rainy
+2020-09-23;Jewel Changi Airport;Cloudy
+2020-09-24;Vivocity;Sunny
+2020-09-25;The Shoppes;Sunny
+2020-09-26;IMM;Sunny
+2020-09-27;IMM;Overcast
+2020-09-28;IMM;Rainy
+2020-09-29;IMM;Cloudy
+2020-09-30;ION Orchard;Sunny
+2020-10-01;IMM;Cloudy
+2020-10-02;IMM;Cloudy
+2020-10-03;Jewel Changi Airport;Cloudy
+2020-10-04;The Shoppes;Cloudy
+2020-10-05;Vivocity;Rainy
+2020-10-06;ION Orchard;Partly Cloudy
+2020-10-07;The Shoppes;Sunny
+2020-10-08;The Shoppes;Overcast
+2020-10-09;Vivocity;Sunny
+2020-10-10;ION Orchard;Overcast
+2020-10-11;IMM;Overcast
+2020-10-12;IMM;Sunny
+2020-10-13;ION Orchard;Sunny
+2020-10-14;The Shoppes;Overcast
+2020-10-15;Jewel Changi Airport;Rainy
+2020-10-16;Vivocity;Cloudy
+2020-10-17;ION Orchard;Cloudy
+2020-10-18;The Shoppes;Rainy
+2020-10-19;IMM;Partly Cloudy
+2020-10-20;ION Orchard;Overcast
+2020-10-21;The Shoppes;Overcast
+2020-10-22;Vivocity;Rainy
+2020-10-23;ION Orchard;Partly Cloudy
+2020-10-24;The Shoppes;Sunny
+2020-10-25;Jewel Changi Airport;Cloudy
+2020-10-26;Vivocity;Cloudy
+2020-10-27;The Shoppes;Rainy
+2020-10-28;The Shoppes;Cloudy
+2020-10-29;The Shoppes;Cloudy
+2020-10-30;IMM;Cloudy
+2020-10-31;ION Orchard;Rainy
+2020-11-01;The Shoppes;Partly Cloudy
+2020-11-02;The Shoppes;Cloudy
+2020-11-03;Vivocity;Sunny
+2020-11-04;ION Orchard;Partly Cloudy
+2020-11-05;ION Orchard;Sunny
+2020-11-06;The Shoppes;Sunny
+2020-11-07;The Shoppes;Overcast
+2020-11-08;IMM;Sunny
+2020-11-09;IMM;Overcast
+2020-11-10;ION Orchard;Sunny
+2020-11-11;The Shoppes;Overcast
+2020-11-12;Vivocity;Rainy
+2020-11-13;ION Orchard;Partly Cloudy
+2020-11-14;The Shoppes;Sunny
+2020-11-15;IMM;Sunny
+2020-11-16;IMM;Partly Cloudy
+2020-11-17;ION Orchard;Sunny
+2020-11-18;IMM;Overcast
+2020-11-19;IMM;Sunny
+2020-11-20;IMM;Sunny
+2020-11-21;ION Orchard;Sunny
+2020-11-22;The Shoppes;Overcast
+2020-11-23;Jewel Changi Airport;Rainy
+2020-11-24;The Shoppes;Partly Cloudy
+2020-11-25;Vivocity;Cloudy
+2020-11-26;Jewel Changi Airport;Cloudy
+2020-11-27;IMM;Rainy
+2020-11-28;ION Orchard;Partly Cloudy
+2020-11-29;ION Orchard;Cloudy
+2020-11-30;The Shoppes;Cloudy
+2020-12-01;The Shoppes;Rainy
+2020-12-02;Vivocity;Rainy
+2020-12-03;ION Orchard;Partly Cloudy
+2020-12-04;The Shoppes;Overcast
+2020-12-05;Vivocity;Sunny
+2020-12-06;Vivocity;Overcast
+2020-12-07;ION Orchard;Overcast
+2020-12-08;IMM;Overcast
+2020-12-09;ION Orchard;Sunny
+2020-12-10;IMM;Overcast
+2020-12-11;ION Orchard;Overcast
+2020-12-12;IMM;Sunny
+2020-12-13;ION Orchard;Partly Cloudy
+2020-12-14;The Shoppes;Overcast
+2020-12-15;The Shoppes;Rainy
+2020-12-16;Jewel Changi Airport;Partly Cloudy
+2020-12-17;IMM;Cloudy
+2020-12-18;Jewel Changi Airport;Cloudy
+2020-12-19;Jewel Changi Airport;Cloudy
+2020-12-20;IMM;Rainy
+2020-12-21;ION Orchard;Partly Cloudy
+2020-12-22;The Shoppes;Sunny
+2020-12-23;Vivocity;Partly Cloudy
+2020-12-24;The Shoppes;Cloudy
+2020-12-25;Vivocity;Cloudy
+2020-12-26;Vivocity;Sunny
+2020-12-27;ION Orchard;Sunny
+2020-12-28;The Shoppes;Partly Cloudy
+2020-12-29;Jewel Changi Airport;Overcast
+2020-12-30;The Shoppes;Sunny
+2020-12-31;The Shoppes;Partly Cloudy
